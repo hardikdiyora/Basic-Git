@@ -1,2 +1,2 @@
 # Funda
-Basic Understanding of SVN
+Basic Understanding of Version control Sys.
